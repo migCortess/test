@@ -20,7 +20,7 @@ public class Controller_Usuario{
 	
 
 	public Controller_Usuario(){
-		usuario[0] = new UsuarioDomestico("miguel Cortes",1477355,"las lomas #109 escobedo NL","28/05/16","9H294C");
+		usuario[0] = new UsuarioDomestico("miguel",1435,"las","28/05/16","9H294C");
 		usuario[1] = new UsuarioNegocio("Alexis",1233233,"los cedros #230 San Nicolas de los Gzz NL","01/06/16","8J275B");
 		usuario[2] = new UsuarioEmpresarial("Mario",1255553,"dsswwwefaffdfdfdf","12/06/16","8G275A");
 	}
